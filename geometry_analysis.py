@@ -1,6 +1,8 @@
 """
 geometry_anamysis.py
 This module contains the geometry analysis project.
+
+Authored by Sarah at MolSSI Workshop
 """
 
 import numpy
